@@ -1,5 +1,7 @@
 # Anadolu Mezar Taşları Kronolojisi, 1158–1437
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23887235.svg)](https://doi.org/10.5281/zenodo.23887235) [![Lisans: CC BY 4.0](https://img.shields.io/badge/Lisans-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 Türkiye'de **kitabesinden ölüm tarihi ya da gömülü kişinin adı okunabilen** en erken Türk-İslam mezar taşları ve türbelerinin tek bir kronolojide toplanmış envanteri. Kırk dolayında yayından derlenmiştir; hiçbir taş yerinde okunmamıştır, bütün okumalar yayımlanmış kaynaklara dayanır ve her kayıt bir kanıt düzeyiyle işaretlenmiştir.
 
 ## İçerik
@@ -38,6 +40,19 @@ Yeni bir tarihli taş biliyorsanız bir *issue* açın ya da CSV'ye satır ekley
 
 ## Kaynak gösterme
 
-Aytuğ, Ayberk. *Taşa Yazılan İlk Tarihler: Türkiye'de Kitabeli Türk-İslam Mezarının Yayılışı, 1158–1437* (çalışma taslağı, 2026). GitHub: Ayberk-H/anadolu-mezar-taslari.
+BibTeX:
+```
+@misc{aytug2026mezartaslari,
+  author = {Aytuğ, Ayberk},
+  title  = {Taşa Yazılan İlk Tarihler: Türkiye'de Kitabeli Türk-İslam Mezarının Yayılışı, 1158–1437},
+  year   = {2026},
+  publisher = {Zenodo},
+  doi    = {10.5281/zenodo.23887235},
+  url    = {https://doi.org/10.5281/zenodo.23887235}
+}
+```
+
+
+Aytuğ, Ayberk. *Taşa Yazılan İlk Tarihler: Türkiye'de Kitabeli Türk-İslam Mezarının Yayılışı, 1158–1437* (çalışma taslağı, sürüm 0.1, 2 Kasım 2026). Zenodo. https://doi.org/10.5281/zenodo.23887235 — GitHub: Ayberk-H/anadolu-mezar-taslari.
 
 Çalışma yapay zekâ (Claude) desteğiyle derlenmiştir; kaynak taraması, okuma karşılaştırmaları ve metin bu iş birliğinin ürünüdür. Fotoğraflar atıf yapılan yayınlardan alınmıştır ve her birinin kaynağı altyazısında verilmiştir.
